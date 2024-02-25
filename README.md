@@ -1,6 +1,6 @@
 # CRUDS
 
-This is a simple CRUDS (Create, Read, Update, Delete, Send) application built using the MERN (MongoDB, Express.js, React, Node.js) stack.
+This is a simple CRUDS (Create, Read, Update, Delete, Send) application built using the MERN (MongoDB, Express.js, React, Node.js) stack and Next.js.
 
 ## Features
 
