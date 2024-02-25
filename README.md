@@ -31,10 +31,10 @@ cd cruds
 2. Install dependencies:
 
 ```bash
-cd backend
+cd crudBack
 npm install
 
-cd frontend
+cd crudFront
 npm install
 ```
 
